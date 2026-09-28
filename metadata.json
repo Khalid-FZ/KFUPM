@@ -1,0 +1,6 @@
+{
+  "name": "KFUPM Prep",
+  "description": "تطبيق متكامل للتحضير الختبارات القبول والتحصيلي لجامعة الملك فهد للبترول والمعادن مع تنظيم الدروس والتجميعات واالختبارات والعد التنازلي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
